@@ -1,2 +1,2 @@
 # infotainmentTest
-Its a test reop to for google test
+Its a test repo for google test
